@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\bin\Debug\net8.0-windows\final_calismasi.exe
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\bin\Debug\net8.0-windows\final_calismasi.deps.json
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\bin\Debug\net8.0-windows\final_calismasi.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\bin\Debug\net8.0-windows\final_calismasi.dll
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\bin\Debug\net8.0-windows\final_calismasi.pdb
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\final_calismasi.Form1.resources
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\final_calismasi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\final_calismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\final_calismasi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\final_calismasi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\final_calismasi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\final_calismasi.dll
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\refint\final_calismasi.dll
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\final_calismasi.pdb
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\final_calismasi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C# 2024\final_calismasi\final_calismasi\obj\Debug\net8.0-windows\ref\final_calismasi.dll
